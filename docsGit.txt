@@ -1,0 +1,8 @@
+comandos para git 
+1 git init     #sirve para iniciar git en el proyecto 
+2 git status   #sirve para ver el estado del proyecto como si ha commits pendientes
+3 git log   # sirve para ver el registro de  las ramas los commits y los ids
+3 git add <archivo>  # sirve para añadir a git para que cuando se aga un commit no se pierda el archivo
+4 git commit -m "mensaje o comentario sobre el comit"  # gurda los cambios echos que esten añadidos por add
+5 git checkout <id>  # se puede mover por diferentes commits o ramas volviendo a versiones pasadas y viceversa
+6 git reflog  # muestra todo el historial haci allan borrado  alguna rama  
