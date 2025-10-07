@@ -6,3 +6,5 @@ comandos para git
 4 git commit -m "mensaje o comentario sobre el comit"  # gurda los cambios echos que esten añadidos por add
 5 git checkout <id>  # se puede mover por diferentes commits o ramas volviendo a versiones pasadas y viceversa
 6 git reflog  # muestra todo el historial haci allan borrado  alguna rama  
+7 git checkout <archivo>  # sirve para desacer cambios en al archivo
+8 git reset a <archivo>  # saca el archivo del stage 
