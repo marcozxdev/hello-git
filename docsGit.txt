@@ -9,4 +9,8 @@ comandos para git
 7 git checkout <archivo>  # sirve para desacer cambios en al archivo
 8 git reset a <archivo>  # saca el archivo del stage 
 9 git tag <nombre>  # da una etiqueta o algo que la dieferencie de los demas 
-10 git merge <rama> 
+10 git merge <rama> # une ramas
+11 diff  # muestra dieferencie entre commits archivos etc
+
+
+NOTA para mas informacion ve a la pagina: https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
