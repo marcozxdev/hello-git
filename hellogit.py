@@ -1,4 +1,5 @@
 print("hello git v1")
 print("mis primeros pasos con git")
 print("nuevo print v7")
-ptint("hello github")
+print("hello github desde asus")
+print("hello desde github")
