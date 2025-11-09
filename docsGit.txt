@@ -13,4 +13,16 @@ comandos para git
 11 diff  # muestra dieferencie entre commits archivos etc
 
 
+Recursos oficiales y completos
+
+Pro Git (libro gratuito, muy completo, disponible en español) https://git-scm.com/book/es/v2
+Documentación oficial de Git https://git-scm.com/doc
+Documentación oficial de GitHub (en español) https://docs.github.com/es
+Guías prácticas y tutoriales paso a paso
+
+GitHub Guides (introducción rápida y workflows) https://guides.github.com/
+Hello World — guía rápida de GitHub (cómo crear repo, clonar, push, PR) https://docs.github.com/es/get-started/quickstart/hello-world
+GitHub Flow — flujo simple recomendado para repositorios colaborativos https://guides.github.com/introduction/flow/
+
+
 NOTA para mas informacion ve a la pagina: https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
